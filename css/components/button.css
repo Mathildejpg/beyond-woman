@@ -1,0 +1,16 @@
+.btn-main {
+  display: inline-block;
+  padding: 14px 32px;
+  border: 1px solid white;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 13px;
+  transition: all 0.3s ease;
+}
+
+.btn-main:hover {
+  background-color: white;
+  color: #1a1a1a;
+}
